@@ -1,1 +1,1 @@
-printf("hellow word")
+print("hellow word")
